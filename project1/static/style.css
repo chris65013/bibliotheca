@@ -1,0 +1,19 @@
+.navbar {
+    border-radius: 0;
+}
+
+a.navbar-brand {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p {
+    text-align: justify;
+}
+
+form p {
+    text-align: center;
+}
+
+body {
+ background-image: url('https://i.imgur.com/dL4SKTC.png');
+}
